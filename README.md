@@ -22,6 +22,10 @@ Members (1) ⟶ (M) Borrow
 Books (1) ⟶ (M) Borrow
 Staff (1) ⟶ (M) Borrow
 
+ER Diagram Image
+![image](https://github.com/user-attachments/assets/a4f5f3e0-d9aa-4843-8f70-f665d9caa1f8)
+
+
 ✅ Outcome
 You now have a normalized and relational schema ready.
 
