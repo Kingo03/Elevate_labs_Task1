@@ -24,3 +24,7 @@ select Title,Publisher, Genre from books where Publisher like 'B%' and Genre lik
 select Title from books where Year between 1990 and 2000 ;
 
 
+-- Order by
+use booksdb;
+select * from authors order by AuthorID desc;  
+
